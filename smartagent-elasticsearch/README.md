@@ -10,7 +10,7 @@ agent](https://github.com/signalfx/collectd), but still uses that internally --
 so any existing Python or C-based collectd plugins will still work without
 modification.
 
-For details on the SignalFx SmartAgent, see the [Smart Agent Read Me file] (https://github.com/signalfx/signalfx-agent).
+For details on the SignalFx SmartAgent, see the [Smart Agent Read Me] (https://github.com/signalfx/signalfx-agent).
 
  - [Installation](#installation)
  - [Deployment](#deployment)
