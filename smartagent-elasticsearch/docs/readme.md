@@ -4,7 +4,6 @@ brief: Metrics collected from Elasticsearch nodes
 ---
 ### Elasticsearch Metrics
 
-Use the [elasticsearch-plugin](https://github.com/signalfuse/collectd-elasticsearch) collectd plugin to collect metrics for Elasticsearch.
 
 Use this plugin to monitor the following types of information from an Elasticsearch node:
   * node statistics (cpu, os, jvm, indexing, search, thread pools, etc..)
